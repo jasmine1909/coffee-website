@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cappuccino",
+    "price": "13.99",
+    "imgSrc": "./images/Cappuccino.png"
+  },
+  {
+    "name": "Latte",
+    "price": "14.99",
+    "imgSrc": "./images/Latte.png"
+  },
+  {
+    "name": "Expresso",
+    "price": "13.99",
+    "imgSrc": "./images/Expresso.png"
+  },
+  {
+    "name": "Flat White",
+    "price": "13.99",
+    "imgSrc": "./images/Flat White.png"
+  },
+  {
+    "name": "Misto",
+    "price": "13.99",
+    "imgSrc": "./images/Misto.png"
+  },
+  {
+    "name": "Machiato",
+    "price": "16.99",
+    "imgSrc": "./images/Machiato.png"
+  },
+  {
+    "name": "Doppio",
+    "price": "13.99",
+    "imgSrc": "./images/Doppio.png"
+  },
+  {
+    "name": "Conpana",
+    "price": "14.99",
+    "imgSrc": "./images/Conpana.png"
+  },
+  {
+    "name": "Americano",
+    "price": "13.99",
+    "imgSrc": "./images/Expresso.png"
+  },
+  {
+    "name": "Irish",
+    "price": "13.99",
+    "imgSrc": "./images/Flat White.png"
+  },
+  {
+    "name": "Fredo",
+    "price": "13.99",
+    "imgSrc": "./images/Misto.png"
+  },
+  {
+    "name": "Frappe",
+    "price": "16.99",
+    "imgSrc": "./images/Cappuccino.png"
+  }
+]
